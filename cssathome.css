@@ -1,0 +1,88 @@
+@charset "utf-8";
+/* CSS Document */
+ /* GO GO INTERNET SEARCH! But yeah, backgrounds are weird and i needed to use this funky CSS piece to make the background blue */
+body {
+    margin: auto 10px;
+    width: auto;
+    height: 100%;
+    background-color: darkblue;
+}
+/* body color */
+body {
+	color: gold;
+	text-align: center;
+}
+
+body2 {
+	color: gold;
+	text-align: left;
+}
+/* Link customization */
+a {
+	color: gold;
+	text-decoration:none;
+}
+/* Header Adjustments */
+.HBG {
+
+	text-align: center;
+/* changes stuff for selected tabs */
+}
+
+.col-3 {
+    border: 1px solid #ffcc00; 
+    padding: 10px; 
+    text-align: center; 
+    border-radius: 5px; 
+    box-sizing: border-box; 
+    background-color: #002244; 
+}
+
+.description-section {
+	text-align: left;
+}
+
+.footer-section {
+    background-color: #002244; 
+    color: white; 
+    padding: 20px 0; 
+    margin-top: 20px; 
+}
+
+.footer-section h4 {
+    margin-bottom: 15px;
+}
+
+.footer-section ul {
+    list-style-type: none; 
+    padding: 0;
+}
+
+.footer-section ul li {
+    margin-bottom: 10px;
+}
+
+.footer-section ul li a {
+    color: gold; 
+    text-decoration: none;
+}
+
+.footer-section ul li a:hover {
+    text-decoration: underline; 
+}
+
+.footer-section p {
+    margin: 5px 0; 
+}
+.SEL {
+	background-color: blue;
+}s
+
+.121 {
+    border: 1px solid #ffcc00; 
+    padding: 10px; 
+    text-align: center; 
+    border-radius: 5px; 
+    box-sizing: border-box; 
+    background-color: #002244; 
+}
